@@ -1,1 +1,1 @@
-# Blog
+# Django-Hexo
